@@ -1,4 +1,6 @@
-# reaction
+# Reaction Game
+
+Re-learning Vue.js
 
 ## Project setup
 ```
